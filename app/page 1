@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+  <div id="Wrapper">
+    <nav>
+      <!-- Navigation bar
+      Links to web pages of your site will go here... -->
+    </nav>
+
+    <header>
+      <h1>dragon quest 11</h1>
+
+      <!-- Header
+      Typically a widescreen-style banner for your web site.
+      It may include a call-to-action button:
+      https://blog.hubspot.com/marketing/call-to-action-examples -->
+    </header>
+
+    <section>
+      <p1>home</p1>
+      <p>assassins creed series</p>
+      <p2>digimon cyber sleuth<p2>
+      <p3>Gundam<p3>
+      <!-- A Section
+      Contents of your web page should be divided into Sections
+      You will likely have many of those on a web page -->
+    </section>
+
+    <footer>
+      <p>dragon quest 11 follows the luminary the hero of light but with a suprising twist at the start of the story comperd to other simler storys it last a long while of betwen 50 and 120 hours around 85 hours is normal for a playthroug </p>
+      <!-- Footer
+      Footers typically include information such as:
+      social media links,
+      information about the company,
+      address,
+      a list of links,
+      Privacy Policy, Code of Conduct, and links to other legal documents -->
+    </footer>
+  </div>
+</body>
+</html>

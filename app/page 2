@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+  <div id="Wrapper">
+    <nav>
+      <!-- Navigation bar
+      Links to web pages of your site will go here... -->
+    </nav>
+
+    <header>
+      <h1>assassins creed series</h1>
+
+      <!-- Header
+      Typically a widescreen-style banner for your web site.
+      It may include a call-to-action button:
+      https://blog.hubspot.com/marketing/call-to-action-examples -->
+    </header>
+
+    <section>
+      <p1>home</p1>
+      <p>dragon quest 11</p>
+      <p2>digimon cyber sleuth<p2>
+      <p3>Gundamill likely have many of those on a web page -->
+    </section>
+
+    <footer>
+      <p>assassins creed is a game series that revolvs around assassins fighting for fredome agenst templars fighting for order it mainly revolvs around assassins or the two templars with unwanted assassins conections</p>
+      <!-- Footer
+      Footers typically include information such as:
+      social media links,
+      information about the company,
+      address,
+      a list of links,
+      Privacy Policy, Code of Conduct, and links to other legal documents -->
+    </footer>
+  </div>
+</body>
+</html>
